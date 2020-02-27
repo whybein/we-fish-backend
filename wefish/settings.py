@@ -13,6 +13,9 @@ SECRET_KEY = my_settings.SECRET_KEY
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+##Stop Warning about '/'
+APPEND_SLASH=False
+
 ALLOWED_HOSTS = ['*']
 
 # Application definition
