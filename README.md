@@ -166,7 +166,6 @@
 
 # Contact
 - whybein : swhybeing@gmail.com
-- k904808 : k904808@gmail.com
 
 &nbsp;
 &nbsp;
